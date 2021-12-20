@@ -1,4 +1,4 @@
-[![Deploy](https://get.pulumi.com/new/button.svg)](https://app.pulumi.com/new)
+[![Deploy](https://get.pulumi.com/new/button.svg)](https://app.pulumi.com/new?template=https://github.com/pulumi/azure-aks-with-spot-ocean/tree/main/infrastructure)
 
 # Autoscaling Azure AKS With Spot Ocean
 
